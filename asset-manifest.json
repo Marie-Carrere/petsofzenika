@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/petsofzenika/static/css/main.f8923e82.chunk.css",
+    "main.js": "/petsofzenika/static/js/main.7f940eaa.chunk.js",
+    "main.js.map": "/petsofzenika/static/js/main.7f940eaa.chunk.js.map",
+    "runtime~main.js": "/petsofzenika/static/js/runtime~main.72c631fa.js",
+    "runtime~main.js.map": "/petsofzenika/static/js/runtime~main.72c631fa.js.map",
+    "static/js/2.5c8a6b89.chunk.js": "/petsofzenika/static/js/2.5c8a6b89.chunk.js",
+    "static/js/2.5c8a6b89.chunk.js.map": "/petsofzenika/static/js/2.5c8a6b89.chunk.js.map",
+    "index.html": "/petsofzenika/index.html",
+    "precache-manifest.3e8327edc2b4722909a242a097f5ab6f.js": "/petsofzenika/precache-manifest.3e8327edc2b4722909a242a097f5ab6f.js",
+    "service-worker.js": "/petsofzenika/service-worker.js",
+    "static/css/main.f8923e82.chunk.css.map": "/petsofzenika/static/css/main.f8923e82.chunk.css.map"
+  }
+}
